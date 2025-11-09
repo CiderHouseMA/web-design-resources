@@ -17,9 +17,7 @@ Examples include Google Business Profile, Yelp, Bing Places, Apple Maps, and ind
 Search engines use these listings to verify your business’s credibility and consistency.  
 If your details match across multiple trusted sites, Google is more likely to trust your information — which improves local rankings.
 
-For a deeper dive into how citations influence visibility, read  
-[**The Power of Local Citations**](https://ciderhouse.media/the-power-of-local-citations/)  
-on the Cider House blog.
+For a deeper dive into how citations influence visibility, read [**The Power of Local Citations**](https://ciderhouse.media/the-power-of-local-citations/) on the Cider House blog.
 
 ---
 
