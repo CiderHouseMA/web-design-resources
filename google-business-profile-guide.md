@@ -1,118 +1,117 @@
-# Storytelling Framework for Small Business Websites
+# Google Business Profile Guide for Small Business Owners
 
-A guide from **Cider House Media** to help small business owners understand how storytelling shapes powerful websites and brands.  
+A practical guide from **Cider House Media** to help small business owners set up, optimize, and maintain a strong **Google Business Profile (GBP)** — one of the most important tools for local visibility in search results and Google Maps.  
 
-Whether you’re writing your own copy or working with an agency, storytelling is the difference between a site that feels generic and one that connects instantly with your audience.
-
----
-
-## 1. Why Storytelling Matters in Business
-
-People don’t just buy products or services — they buy understanding, trust, and emotion.  
-A clear story helps visitors see themselves in what you offer. It turns your business from “another option” into the obvious choice.  
-
-Good storytelling organizes your message around the customer’s needs, not your company’s features.  
-That shift builds empathy and drives conversions.
+Whether you manage your own profile or hire an agency to do it, these steps will help you show up when local customers are searching.
 
 ---
 
-## 2. The Customer Is the Hero
+## 1. Claim and Verify Your Profile
 
-In every good story, there’s a hero — and it’s not the brand. It’s your customer.  
+Start by visiting [google.com/business](https://google.com/business) and searching for your business.  
+If it already exists, claim it. If not, create a new listing using your correct business name, address, and phone number (NAP).  
 
-Your website should help the hero:
-- Identify their challenge  
-- See that you understand it  
-- Believe you can guide them to success  
-
-If you’re hiring a web designer or writer, make sure they ask about your *customers’* journey first, not just your logo and color palette.  
-A great agency will help you reframe your message around your audience, not your company.
+Verification options vary — Google might mail a postcard, send a text, or offer instant verification if you already use Google tools.  
+Make sure your listing matches the exact details on your website and other online directories.
 
 ---
 
-## 3. Your Business Is the Guide
+## 2. Fill Out Every Detail
 
-In this story, you’re the experienced guide who helps the hero succeed.  
-That means your tone should be confident but approachable — full of solutions, not self-promotion.  
+An incomplete profile is a missed opportunity.  
+Once verified, fill out every available field, including:  
+- Business categories (primary + secondary)  
+- Description  
+- Website link  
+- Hours  
+- Products or services  
+- Service areas  
+- Accessibility or amenities (if applicable)  
 
-The right web designer will help you express that visually: through brand tone, layout, and structure that build trust from the first click.
-
----
-
-## 4. Define the Problem Clearly
-
-If your customer doesn’t immediately recognize their problem on your homepage, they won’t stick around for the solution.  
-
-Make sure your website spells out:
-- The challenges your audience faces  
-- Why those challenges matter  
-- What happens if they don’t solve them  
-
-A skilled writer or agency will use this section to build empathy and urgency without exaggeration.
+If you’re working with an SEO or web design agency, ask them to review your GBP setup and make sure it aligns with your website content and keywords.
 
 ---
 
-## 5. Present the Plan
+## 3. Choose the Right Categories
 
-A good story gives the hero a clear plan — step-by-step guidance on how to succeed.  
-Your website should do the same.  
+Your **primary category** tells Google what your business *is*, not what it sells.  
+Be as specific as possible — for example:  
+- “Roofing contractor” instead of “Contractor”  
+- “Web design service” instead of “Marketing agency”  
 
-That plan might be as simple as:
-1. Schedule a consultation  
-2. Approve your design or project scope  
-3. Launch your new site  
-
-If you’re working with a designer, make sure they map out how these steps appear on your website. Visitors should always know what to do next.
+You can add a few secondary categories for supporting services.  
+If you’re unsure, look up what your top local competitors are using — but only choose categories that truly fit your business.
 
 ---
 
-## 6. Call to Action (CTA)
+## 4. Add High-Quality Photos
 
-A story without a call to action goes nowhere.  
-Every page should invite visitors to take the next step — call, message, buy, or learn more.  
+Photos build trust.  
+Businesses with strong images get more clicks and direction requests on Google Maps.  
 
-Ask your web designer how they plan to highlight CTAs across your site. They should be visible, consistent, and never confusing.  
-If you’re writing your own site, keep it simple: clear verbs like **Get Started**, **Request a Quote**, or **Book a Call** work best.
+Upload:  
+- A clear exterior shot so customers recognize your location  
+- Interior photos (if applicable)  
+- Team and service photos  
+- Product or project images  
+- A current logo and cover photo  
 
----
-
-## 7. Paint the Picture of Success
-
-Help visitors imagine what life looks like *after* working with you.  
-That vision of success — whether it’s saving time, improving their business, or feeling proud of their brand — is what motivates action.  
-
-A strong designer or copywriter will use imagery, testimonials, and concise language to bring that transformation to life.
+Avoid over-edited or stock imagery. Real photos make a big difference.
 
 ---
 
-## 8. Avoid the Pitfalls of Confusion
+## 5. Post Regular Updates
 
-The number one mistake in business storytelling is clutter.  
-Too many messages, too many calls to action, or too much “about us” content can bury the story.  
+Treat your Google Business Profile like a mini social media feed.  
+Post once a week if possible — updates can include:  
+- Seasonal offers  
+- Project highlights  
+- Blog posts or articles  
+- Events or community involvement  
 
-If your website feels busy or hard to follow, remember this rule:  
-**Clarity always beats cleverness.**
+Each post should include a photo, short description, and a call-to-action button (e.g., “Learn more,” “Call now,” or “Get quote”).  
 
----
-
-## 9. Keep It Authentic
-
-Great stories aren’t invented — they’re revealed.  
-Use your real voice, your real photos, and your real values.  
-Avoid jargon or stock phrases that sound like everyone else in your industry.  
-
-If you’re hiring an agency, ask them how they’ll help preserve your voice instead of replacing it.
+Posting regularly signals that your business is active and keeps you visible in local search results.
 
 ---
 
-## 10. Evolve the Story Over Time
+## 6. Collect and Respond to Reviews
 
-Your story doesn’t end at launch.  
-As your business grows, your website should grow with it.  
-Update your content, refresh your visuals, and share new success stories.  
+Reviews are one of the strongest local ranking factors.  
+Encourage happy customers to leave reviews — and make it easy by sending them your direct review link.  
 
-A good web partner will build a site that’s easy to update and designed to evolve — not something that becomes outdated after a year.
+When someone leaves a review:
+- Respond promptly and personally (even to positive ones).  
+- Thank them by name when possible.  
+- For negative reviews, stay professional, acknowledge the issue, and invite them to continue the conversation privately.  
+
+If you’re hiring an SEO partner, make sure they help you develop a **review request strategy** and track new feedback.
 
 ---
 
-**Prepared by [Cider House Media](https://ciderhouse.media "Web Design & Branding by Cider House Media")**
+## 7. Use Messaging and Q&A Features
+
+Enable **Messaging** so potential customers can reach you directly from your profile.  
+If you can’t respond personally, set expectations in your auto-reply (e.g., “Thanks for reaching out! We’ll respond within 1 business day.”).  
+
+Monitor the **Q&A** section too. Anyone can ask — or answer — questions about your business.  
+Keep an eye on it so you can correct misinformation quickly.
+
+---
+
+## 8. Keep It Consistent and Updated
+
+Your GBP should always reflect what’s happening in real life.  
+Update hours during holidays, new photos when your space changes, and descriptions as your services evolve.  
+
+If you move or change your business name, update your listing immediately.  
+Outdated information frustrates customers and hurts credibility.
+
+---
+
+## 9. Connect Your Website and Tracking
+
+Make sure your GBP links to the correct page on your website — usually your homepage or a key service/location page.  
+
+To measure performance, add **UTM tracking** to your website link.  
+For example:  
