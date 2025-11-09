@@ -1,63 +1,44 @@
+# WordPress SEO Setup Guide for Small Business Websites
 
-These templates make sure new pages automatically have consistent, optimized titles until you customize them further.
+A guide from **Cider House Media** to help small business owners (and new website editors) understand how to set up on-page SEO in WordPress using popular plugins like **Rank Math**, **Yoast SEO**, or **All in One SEO (AIOSEO)** — and how to use them wisely.  
 
----
-
-## 4. Use Focus Keywords — But Don’t Obsess Over Them
-
-Every SEO plugin gives you a **Focus Keyword** field and a color-coded score.  
-That score is helpful, but it’s not a grade from Google — it’s a *checklist from the plugin developer*.  
-
-Each tool looks for a certain percentage of keyword repetition in headings and text.  
-However, it’s possible to rank very well even if your plugin score isn’t perfect.  
-
-> What matters most is **topic coverage**, **clarity**, and **relevance**, not keyword density.
-
-Use your focus keyword in your **H1** (page title) and at least one **H2** if it fits naturally.  
-Then write freely about the topic, including related phrases and long-tail variations.  
-Don’t force keywords just to turn the score green — that’s how AI-like content gets born.
+These tools are powerful, but they’re only as good as the content and structure you give them.  
+This guide explains how to set them up, what matters most, and how to interpret those famous “green scores” without losing sight of real-world SEO.
 
 ---
 
-## 5. Avoid Keyword Cannibalization
+## 1. Install and Activate an SEO Plugin
 
-Each page on your site should target a **unique keyword theme**.  
-If you use the same exact focus keyword on multiple pages, they’ll compete with each other.  
+If your site is built on WordPress, you’ll need an SEO plugin to control your meta titles, descriptions, and schema markup.  
+The most popular options are:  
+- [**Rank Math**](https://rankmath.com/) – Powerful, lightweight SEO plugin with advanced schema and analytics integrations.  
+- [**Yoast SEO**](https://yoast.com/wordpress/plugins/seo/) – Longstanding favorite with user-friendly optimization guidance.  
+- [**All in One SEO (AIOSEO)**](https://aioseo.com/) – Full-featured SEO plugin that simplifies on-page optimization and local SEO setup.  
 
-Instead, build a topic cluster:  
-- Main service page targets “Web Design in Easthampton, MA.”  
-- Blog post supports it with “How to Choose a Local Web Design Company.”  
+These plugins help you manage key metadata, sitemaps, and structured data — but remember, tools can guide you, not replace thoughtful writing and clear structure.
 
-This helps Google understand which page should rank for which intent — and improves overall visibility.
+Each works slightly differently, but the core setup process is similar:  
+1. Install from the WordPress Plugin Repository.  
+2. Activate the plugin.  
+3. Follow the setup wizard to connect it to your site.  
 
----
-
-## 6. Optimize Meta Titles and Descriptions
-
-Your **meta title** is what shows up in Google search results — treat it like a headline.  
-Keep it under 60 characters, include your keyword near the beginning, and make it appealing to click.  
-
-Your **meta description** should be around 150–160 characters and summarize what readers will get from the page.  
-Example:  
-> “Cider House Media builds fast, SEO-friendly WordPress websites for small businesses in Western Massachusetts. Learn how our design process drives local results.”
-
-Every plugin allows you to edit these fields individually for each page or post.
+If you’re working with a designer or agency, they can handle the initial setup and make sure it integrates cleanly with your theme and caching plugins.
 
 ---
 
-## 7. Set Up Schema Markup
+## 2. Connect Google Search Console
 
-Schema markup helps search engines understand the type of content on your page (article, product, service, local business, etc.).  
-Rank Math and AIOSEO include strong schema tools — Yoast handles it automatically for most post types.  
+All three plugins allow you to add **Google Search Console** verification directly from WordPress.  
+This helps Google confirm ownership of your site and start collecting performance data.  
 
-For local businesses, make sure your plugin adds **LocalBusiness schema**, including your name, address, phone number, and operating hours.  
-This helps Google display rich results like star ratings and business panels.
+In your SEO plugin’s settings, look for **Webmaster Tools Verification** and paste the code provided by Google Search Console.  
+Once verified, you’ll start seeing impressions and click data within a few days.
 
 ---
 
-## 8. Submit Your XML Sitemap
+## 3. Set Global Meta Defaults
 
-SEO plugins automatically generate an **XML sitemap**, which lists all your important pages.  
-Submit it in **Google Search Console** under *Sitemaps → Add a new sitemap*.  
+Each plugin lets you set default meta titles and descriptions for pages, posts, and archives.  
+Use short, readable templates — not keyword stuffing.  
 
-The typical URL format looks like:  
+Example for Rank Math or Yoast:  
