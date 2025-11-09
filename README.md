@@ -12,7 +12,7 @@ Visit [Cider House Media](https://ciderhouse.media) to learn more about our work
 
 ---
 
-## 📚 Included Resources
+## Included Resources
 
 ### Local SEO & Online Visibility
 - [Local SEO Checklist](./local-seo-checklist.md) — Practical steps we use to optimize local websites.  
@@ -33,14 +33,14 @@ Visit [Cider House Media](https://ciderhouse.media) to learn more about our work
 
 ---
 
-## 🎨 Creative Approach
+## Creative Approach
 
 We combine visual design, brand storytelling, and SEO strategy to create websites that are both beautiful and effective.  
 Our process blends local insight with digital craftsmanship — helping clients build meaningful online presences rooted in authenticity and place.
 
 ---
 
-## 💡 About Cider House Media
+## About Cider House Media
 
 Cider House Media is a creative digital agency focused on:
 - Web design and WordPress development  
