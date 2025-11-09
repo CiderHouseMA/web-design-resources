@@ -24,6 +24,7 @@ Each works slightly differently, but the core setup process is similar:
 
 If you’re working with a designer or agency, they can handle the initial setup and make sure it integrates cleanly with your theme and caching plugins.
 
+
 > 💡 **Cider House Note:**  
 > We generally recommend **Rank Math** for most new WordPress sites.  
 > It offers strong schema support, built-in local SEO features, and an intuitive setup wizard that makes it easy to configure without bloating your site or overcomplicating your workflow.
